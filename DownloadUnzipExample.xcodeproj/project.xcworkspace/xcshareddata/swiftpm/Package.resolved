@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Zip",
+        "repositoryURL": "https://github.com/choongng/Zip",
+        "state": {
+          "branch": "master",
+          "revision": "faffde0f22f43fc34095aac90158e75d9958df6b",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
